@@ -1,1 +1,1 @@
-"# mypuppet" 
+# mypuppet
